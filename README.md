@@ -1,7 +1,10 @@
-# test coverage for  [uncss (v0.14.1)](https://github.com/giakki/uncss)  [![npm package](https://img.shields.io/npm/v/npmtest-uncss.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-uncss) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-uncss.svg)](https://travis-ci.org/npmtest/node-npmtest-uncss)
+# npmtest-uncss
+
+#### test coverage for  [uncss (v0.14.1)](https://github.com/giakki/uncss)  [![npm package](https://img.shields.io/npm/v/npmtest-uncss.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-uncss) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-uncss.svg)](https://travis-ci.org/npmtest/node-npmtest-uncss)
+
 #### Remove unused CSS styles
 
-[![NPM](https://nodei.co/npm/uncss.png?downloads=true)](https://www.npmjs.com/package/uncss)
+[![NPM](https://nodei.co/npm/uncss.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/uncss)
 
 | git-branch : | [alpha](https://github.com/npmtest/node-npmtest-uncss/tree/alpha)|
 |--:|:--|
@@ -9,11 +12,17 @@
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-uncss/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-uncss/build/test-report.html)|
 | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-uncss/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-uncss/tree/gh-pages/build)|
 
-[![istanbul-coverage](https://npmtest.github.io/node-npmtest-uncss/build/screenCapture.buildCustomOrg.browser.coverage.html.png)](https://npmtest.github.io/node-npmtest-uncss/build/coverage.html/index.html)
+- [https://npmtest.github.io/node-npmtest-uncss/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-uncss/build/coverage.html/index.html)
 
-[![test-report](https://npmtest.github.io/node-npmtest-uncss/build/screenCapture.buildCustomOrg.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmtest%252Fnode-npmtest-uncss%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-uncss/build/test-report.html)
+[![istanbul-coverage](https://npmtest.github.io/node-npmtest-uncss/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fcoverage.lib.html.png)](https://npmtest.github.io/node-npmtest-uncss/build/coverage.html/index.html)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-uncss/build/screenCapture.buildApidoc.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmdoc%252Fnode-npmdoc-uncss%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-uncss/build/apidoc.html)
+- [https://npmtest.github.io/node-npmtest-uncss/build/test-report.html](https://npmtest.github.io/node-npmtest-uncss/build/test-report.html)
+
+[![test-report](https://npmtest.github.io/node-npmtest-uncss/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-uncss/build/test-report.html)
+
+- [https://npmdoc.github.io/node-npmdoc-uncss/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-uncss/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-uncss/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-uncss/build/apidoc.html)
 
 ![npmPackageListing](https://npmtest.github.io/node-npmtest-uncss/build/screenCapture.npmPackageListing.svg)
 
@@ -94,13 +103,11 @@
     "main": "src/uncss.js",
     "maintainers": [
         {
-            "name": "giakki",
-            "email": "martino.giacomo@gmail.com"
+            "name": "giakki"
         }
     ],
     "name": "uncss",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/giakki/uncss.git"
