@@ -1,6 +1,6 @@
 # npmtest-uncss
 
-#### test coverage for  [uncss (v0.14.1)](https://github.com/giakki/uncss)  [![npm package](https://img.shields.io/npm/v/npmtest-uncss.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-uncss) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-uncss.svg)](https://travis-ci.org/npmtest/node-npmtest-uncss)
+#### basic test coverage for  [uncss (v0.14.1)](https://github.com/giakki/uncss)  [![npm package](https://img.shields.io/npm/v/npmtest-uncss.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-uncss) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-uncss.svg)](https://travis-ci.org/npmtest/node-npmtest-uncss)
 
 #### Remove unused CSS styles
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-uncss/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-uncss/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-uncss/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-uncss/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-uncss/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-uncss/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-uncss/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-uncss/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-uncss/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-uncss/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-uncss/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-uncss/build/coverage.html/index.html)
 
